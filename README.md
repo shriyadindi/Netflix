@@ -1,7 +1,3 @@
 Netflix Clone
 
-Netflix landing page
-https://netflix-landing-page.shriyad1.repl.co/
-
-Netflix Main page
-https://netflix1-1.shriyad1.repl.co/
+Demo - https://6478e754c024a400b312116b--tubular-entremet-9839cb.netlify.app/
